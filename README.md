@@ -28,6 +28,7 @@ mkdir templates
 # - templates/email_en.txt
 # - templates/email_fr.txt
 ```
+**Note**: You can include in the template dynamic variables which are `{{RESPONSIBLE_NAME}}` and `{{COMPANY_NAME}}` which will be then replaced with the real values when loading the template.
 
 ### 3. Configure Environment Variables
 
