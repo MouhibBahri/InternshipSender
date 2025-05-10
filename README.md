@@ -36,8 +36,8 @@ Create a `.env` file in the root directory with the following:
 
 ```env
 # Email Configuration
-GMAIL_EMAIL=your_email@gmail.com
-GMAIL_PASSWORD=your_app_password
+EMAIL=your_email@gmail.com
+EMAIL_PASSWORD=your_app_password
 
 # File Paths
 SIGNATURE_PATH=signature.jpg
@@ -46,7 +46,7 @@ CV_FR_PATH=cv_fr.pdf
 CSV_PATH=internships.csv
 
 # Settings
-DEBUG_MODE=true
+DEBUG=true
 ```
 
 ---
