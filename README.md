@@ -43,7 +43,7 @@ GMAIL_PASSWORD=your_app_password
 SIGNATURE_PATH=signature.jpg
 CV_EN_PATH=cv_en.pdf
 CV_FR_PATH=cv_fr.pdf
-INTERNSHIPS_FILE=internships.csv
+CSV_PATH=internships.csv
 
 # Settings
 DEBUG_MODE=true
